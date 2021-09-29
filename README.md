@@ -30,7 +30,7 @@ You will only generate a QR code with the first device.
 From the first device you need to install Stefanie Bot.`
 
 #### After getting the QR code, click the button below to apply the bot...
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/STEFANIE-NEW-BETA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA)
 
 
 ## > [Sinhala Youtube Tutorial](https://youtu.be/sEtocRRzTno)
