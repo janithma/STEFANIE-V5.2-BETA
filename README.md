@@ -155,7 +155,9 @@ Stefanie පිහිටුවීමෙන් ඔබ මෙම වගකීම�
   </a>
 
 [![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@kaweesha)
+
 [![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](kaweesha)
+
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://wa.me/message/YGTQBCHLAUYIL1)
 
 
@@ -172,9 +174,9 @@ Stefanie පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
   <div align="center">
 
-  <img src="https://telegra.ph/file/43671afb59b0578ad4a46.jpg" width="200" height="200">
+  <img src="https://telegra.ph/file/43671afb59b0578ad4a46.jpg" width="100" height="100">
 
-  <h1>https://github.com/Mr.Chaby</h1>
+  <h1>[https://github.com/MrChaby]</h1>
 
 </div>
  
