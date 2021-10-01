@@ -168,7 +168,37 @@ Stefanie පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News01-purple.svg)](https://chat.whatsapp.com/FrZ2w8bgWnQI1hRhzZecbf)
 [![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News02-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
 [![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News03-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
-## 👽Thanks To
-[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
-[Yusuf Usta](https://t.me/fusufs)
+## ⚡Special thanks for Mr.chabi
+
+  <div align="center">
+
+  <img src="https://telegra.ph/file/43671afb59b0578ad4a46.jpg" width="200" height="200">
+
+  <h1>Mr Chabby</h1>
+
+</div>
+ 
+ 
+## 👨‍💻 Developers & Contributors 👨‍💻
+
+## Developers
+  <div align="center">
+    
+  [![MrChaby](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) |  [![Toxic Dewil](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) | [![Tutux](https://github.com/Tutux1.png?size=100)](https://github.com/Tutux1) 
+----|----|----
+[MrChaby](https://github.com/MrChaby)  | [TOXIC-DEWIL](https://github.com/TOXIC-DEVIL) | [Tutux](https://github.com/Tutux1)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  </div>
+
+
+ 
+
+
+## ✨ Special Features ✨
+
+- [x] simi simi chatbot
+
+- [ ] Replika chatbot
+
+## ☇Stefanie team comming soon...☇
 
