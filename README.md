@@ -133,7 +133,7 @@ Stefanie පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 [![Kaweeshachamodk](https://github.com/Kaweeshachamodk.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
- ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(VIRUS_FUCKER)***
+ ***Kaweeshachamodk(VIRUS_FUCKER)***
 <a href="https://wa.me/message/YGTQBCHLAUYIL1">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
@@ -161,13 +161,13 @@ Stefanie පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ### 📑Stefanie Support Groups
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support01-blue.svg)](https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support02-blue.svg)](https://chat.whatsapp.com/K4QouGNrNcm1iARgDaYiLj)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support03-blue.svg)](https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazome-News01-purple.svg)](https://chat.whatsapp.com/LuLTEKm22fp8gv4ltCmKMo)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News02-purple.svg)](https://chat.whatsapp.com/LVykTrmNEU98AktU0eBNNq)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News03-purple.svg)](https://chat.whatsapp.com/JdNWV3viiGKGINYNrb5oy8)
+[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-Plugins-red.svg)](https://chat.whatsapp.com/BnjLaEOiiruJ6m1Rz4V04p)
+[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-Support01-blue.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
+[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-Support02-blue.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
+[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-Support03-blue.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
+[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News01-purple.svg)](https://chat.whatsapp.com/FrZ2w8bgWnQI1hRhzZecbf)
+[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News02-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
+[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News03-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
 [Yusuf Usta](https://t.me/fusufs)
