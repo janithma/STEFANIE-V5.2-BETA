@@ -168,13 +168,13 @@ Stefanie පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News01-purple.svg)](https://chat.whatsapp.com/FrZ2w8bgWnQI1hRhzZecbf)
 [![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News02-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
 [![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News03-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
-## ⚡Special thanks for Mr.chabi
+## ⚡Special thanks for Mr.chaby
 
   <div align="center">
 
   <img src="https://telegra.ph/file/43671afb59b0578ad4a46.jpg" width="200" height="200">
 
-  <h1>Mr Chabby</h1>
+  <h1>https://github.com/Mr.Chaby</h1>
 
 </div>
  
