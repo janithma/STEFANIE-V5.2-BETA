@@ -15,7 +15,7 @@
 </p>
 </a>
 <p align="center">
-    Project of  🧚Stefanie - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගන්න පුලුවන් Whatsapp රොබෝවෙකි. Stefanie යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
+    Project of  🧚Stefanie - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගන්න පුලුවන් Whatsapp රොබෝවෙකි. Stefanie යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ...🇱🇰
     <br>
         <a href="https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4">Support Group</a> |
         <a href="https://wa.me/message/YGTQBCHLAUYIL1">Virus fucker Whatsapp </a> |
@@ -200,5 +200,4 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 - [ ] Replika chatbot
 
-## ☇Stefanie team comming soon...☇
 
