@@ -98,6 +98,23 @@ Stefanie bot ගොඩනැගීමට ඔබට ජංගම දුරකථ�
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
   
   </a>
+  ## 📢 Guide
+
+Click WA logo to Join Support Group 👇
+
+    <br>
+
+<br>
+
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
+
+  <div align="center">
+
+       
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaweeshachamodk&repo=STEFANIE-V5.2-BETA&theme=nightowl)](https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA)
+
+  </div>
 
 මෙන්න සම්පූර්ණ විධාන ලැයිස්තුව
 
