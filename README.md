@@ -94,7 +94,7 @@ Stefanie bot ගොඩනැගීමට ඔබට ජංගම දුරකථ�
 
 ## 🚀Stefanie පහසුකම් ලැයිස්තුව
 
-<a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
+<a href="https://github.com/Kaweeshachamodk/My-Important-Bot-list">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
   
   </a>
