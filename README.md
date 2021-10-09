@@ -92,7 +92,7 @@ Stefanie bot ගොඩනැගීමට ඔබට ජංගම දුරකථ�
 
 > [![සම්පූර්ණ සිංහල Tutorial](https://telegra.ph/file/c32d74b7afc8ffe2e7fef.png)](https://youtu.be/sEtocRRzTno)
 
-# 🚀Stefanie පහසුකම් ලැයිස්තුව
+## 🚀Stefanie පහසුකම් ලැයිස්තුව
 
 <a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
