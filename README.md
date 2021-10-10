@@ -217,4 +217,13 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 ## How to create simple plugin for Stefanie bot
 
-|https://github.com/Kaweeshachamodk/Create-simple-plugin|
+
+<a href="https://github.com/Kaweeshachamodk/Create-simple-plugin">
+
+    <img src="https://img.shields.io/badge/Click%0here-purple&style=plastic">
+
+  
+
+  </a>
+
+  
