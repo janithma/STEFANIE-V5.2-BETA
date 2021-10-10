@@ -215,4 +215,6 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 - [ ] Replika chatbot
 
+## How to create simple plugin for Stefanie bot
 
+|https://github.com/Kaweeshachamodk/Create-simple-plugin|
