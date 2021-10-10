@@ -223,7 +223,3 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
     <img src="https://img.shields.io/badge/Click%0here-purple&style=plastic">
 
   
-
-  </a>
-
-  
