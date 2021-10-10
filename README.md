@@ -220,7 +220,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
 - [@TOXIC DEVIL](https://github.com/TOXIC-DEVIL) special thanks for help & advancing
 - [@kappithannemo](https://github.com/kappithannemo) for this coded
-- [@Prabath Senavirathna](https://github.com/MrChaby) for help
+- [@Prabath Senavirathna](https://github.com/MrChaby) for he give me special help to create my bot.
 - Translators
 
 ## License
