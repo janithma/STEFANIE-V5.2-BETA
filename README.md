@@ -183,15 +183,7 @@ Stefanie පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News01-purple.svg)](https://chat.whatsapp.com/FrZ2w8bgWnQI1hRhzZecbf)
 [![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News02-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
 [![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News03-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
-## ⚡Special thanks for Mr.chaby
 
-  <div align="center">
-
-  <img src="https://telegra.ph/file/43671afb59b0578ad4a46.jpg" width="100" height="100">
-
-  <h1>[https://github.com/MrChaby]</h1>
-
-</div>
  
  
 ## 👨‍💻 Developers & Contributors 👨‍💻
@@ -223,3 +215,17 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
     <img src="https://img.shields.io/badge/Click%0here-purple&style=plastic">
 
   
+  
+## Thanks To
+- [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
+- [@TOXIC DEVIL](https://github.com/TOXIC-DEVIL) special thanks for help & advancing
+- [@kappithannemo](https://github.com/kappithannemo) for this coded
+- [@Prabath Senavirathna](https://github.com/MrChaby) for help
+- Translators
+
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
+Assign Credit to developers.Dont edit out the copyright messages!
+
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
