@@ -1,3 +1,7 @@
+# STEFANIE-BETA-V-8.5
+
+<a href="https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA"><img title="YouTube" src="https://img.shields.io/badge/STEFANIE-BETA-V-8.5-darkblue?style=for-the-badge&logo=github"></a>
+![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=Kaweeshachamodk/STEFANIE-V5.2-BETA&left_color=blueviolet&right_color=brightgreen)
 
 
 #### © Select your language
